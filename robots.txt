@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yesischun.github.io/sitemap.xml
